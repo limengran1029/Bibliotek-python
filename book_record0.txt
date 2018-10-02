@@ -1,4 +1,0 @@
-title:Forgiven,author:Agnes Lidbeck,topic:novel,language:swedish,location:Shelf 4   *add_number:2
-title:Forgiven,author:Agnes Lidbeck,topic:novel,language:swedish,location:Shelf 4   *return_number:1
-title:Forgiven,author:Agnes Lidbeck,topic:novel,language:swedish,location:Shelf 4   *borrow_number:1
-title:Forgiven,author:Agnes Lidbeck,topic:novel,language:swedish,location:Shelf 4   *add_number:2
